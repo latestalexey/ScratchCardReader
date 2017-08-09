@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/drawable-hdpi/flash.png",
+        "source": "/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/src/main/res/drawable-hdpi/flash.png"
+    },
+    {
+        "merged": "/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

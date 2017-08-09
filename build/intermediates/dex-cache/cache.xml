@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-11.0.4_d79c7896744e08f5a462698f518cd68c165e7f99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.0.4_01546a0559f483abd964d6356f433cb666ba3175/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/gson-2.7_09d85b03b704d48475fb7fd46bdbe0a836f63785.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_40ec71d2e27698c8bb97b3502fa1296f9f055b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-11.0.4_6f15aad1dd873fa174f98191bf87c12494a73fba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_d5a0429596829b516369d908c4e330dc6af6da6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-11.0.4_18ec8055fd63874f68fecda27e1d98730aa37e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_83f2ddffe66d7fbd3bbb6e474b219ba2e80dadfd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-common-11.0.4_0b9139af3f232c30b9d312fa7d5b3bb81fe3f068/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-11.0.4_1ec59c9791f41115312ad5328a0a81af66a5a352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.3.1_10e702ec80cf4aa67070260b9cb20b9c87cf1402.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_cc52c3ffd866e8917a1072d2e44290970eb9d67b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.3.1_6c9d7c635288ff8e12ca84f1d21bccb50b667d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.3.1_31615d3c65400e31fc27e39a6343524a8741cf5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.3.1_94ea798b3d6025fb38fec942e4e1b8e3ca880023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.3.1_46ab8e3e63eaffc7a7341a5efeb691ea0a9995c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.3.1_ce14e54e5dd138fbc4a1c22804977dbe28673836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-11.0.4_b8e9af23d17ba64f81c7a0f54c6c667e1860e1a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_d300182cc4cb72b0ad25998cbf3bba923309ca16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_94ea798b3d6025fb38fec942e4e1b8e3ca880023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_9a85ebd39656c36aa301cd8745e9de3c69c0f43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.3.1_c0cdecf7cfd3a17c0f5af95596200d9fa0b9a3d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8365aa3cefe1a04fa915cfe069573720bbb213ba">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42392dfc715c7d6fa9b51f6d127082b9c26bdd07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_afd156c4b5f0a5b1e7524909aba139ea6df684ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c9f1897f79ca940ccbf6b226130937e405144899/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-11.0.4_96e6247bc7c60f390f6b0b96cab16a3de9ae149d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_1e08b36e73629508b883b536935710800f0e2881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.7_7d655f7bfb18b73037fe79a889e2764ff14033cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_9a9410e2fedfa43ca34c61e1e3dd0ac1473510eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/javax.inject-1_4917524eb1036af7e7d8aac550d2f1b9426b1e99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_f47d4d4df316ec0d3f840b18dd51579bc42bbef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-11.0.4_1b2ee6a4a81cda2c6056567b5e7b66bcad077c12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_2b3e1bb6f337cbd108e46bcf5ee722c262423e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.3.1_8fcc2b7dba14ee7d99874140019d35eefe2962c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.0.4_a9cca828d5b99fb4c8ae64d988a2db3a3f6c80a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec71420b2d68eba870328b852273c87762201046">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b3d5b18b1dcf824b13c160e67a998b069bb5841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_09d85b03b704d48475fb7fd46bdbe0a836f63785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_d79c7896744e08f5a462698f518cd68c165e7f99/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.3.1_40ec71d2e27698c8bb97b3502fa1296f9f055b1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_6f15aad1dd873fa174f98191bf87c12494a73fba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_83f2ddffe66d7fbd3bbb6e474b219ba2e80dadfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/converter-gson-2.1.0_d5a0429596829b516369d908c4e330dc6af6da6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-11.0.4_01546a0559f483abd964d6356f433cb666ba3175.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_10e702ec80cf4aa67070260b9cb20b9c87cf1402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.4_18ec8055fd63874f68fecda27e1d98730aa37e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.4_1ec59c9791f41115312ad5328a0a81af66a5a352/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_cc52c3ffd866e8917a1072d2e44290970eb9d67b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6c9d7c635288ff8e12ca84f1d21bccb50b667d33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-common-11.0.4_0b9139af3f232c30b9d312fa7d5b3bb81fe3f068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.3.1_9a85ebd39656c36aa301cd8745e9de3c69c0f43d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_31615d3c65400e31fc27e39a6343524a8741cf5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_c0cdecf7cfd3a17c0f5af95596200d9fa0b9a3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.3.1_d300182cc4cb72b0ad25998cbf3bba923309ca16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.4_b8e9af23d17ba64f81c7a0f54c6c667e1860e1a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_46ab8e3e63eaffc7a7341a5efeb691ea0a9995c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_c9f1897f79ca940ccbf6b226130937e405144899.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_ce14e54e5dd138fbc4a1c22804977dbe28673836/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/dagger-2.7_7d655f7bfb18b73037fe79a889e2764ff14033cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.4_96e6247bc7c60f390f6b0b96cab16a3de9ae149d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.2.1_1e08b36e73629508b883b536935710800f0e2881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/okio-1.8.0_9a9410e2fedfa43ca34c61e1e3dd0ac1473510eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_4917524eb1036af7e7d8aac550d2f1b9426b1e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-connection-11.0.4_a9cca828d5b99fb4c8ae64d988a2db3a3f6c80a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-11.0.4_1b2ee6a4a81cda2c6056567b5e7b66bcad077c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_8fcc2b7dba14ee7d99874140019d35eefe2962c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.android.support-design-25.3.1_2b3e1bb6f337cbd108e46bcf5ee722c262423e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.jakewharton-butterknife-8.2.1_afd156c4b5f0a5b1e7524909aba139ea6df684ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/vlad/Desktop/Android/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-11.0.4_f47d4d4df316ec0d3f840b18dd51579bc42bbef1.jar" />
+    </item>
+
+</items>

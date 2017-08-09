@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318773430518",
+    "firebase_url": "https://scratchcardrecognition.firebaseio.com",
+    "project_id": "scratchcardrecognition",
+    "storage_bucket": "scratchcardrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318773430518:android:d745e347bf4f46ce",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.barcodereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318773430518-8h0vf7nui71f4fe7va5g2518or47de75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.android.gms.samples.vision.barcodereader",
+            "certificate_hash": "190ed6209c3c3b2f602407689892f98c17c396f4"
+          }
+        },
+        {
+          "client_id": "318773430518-gabefdum4pofj2kshijkde0ih2mgbibo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARj8KXDKQIPicPUywEPRK-_ijKTiIYWdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318773430518-gabefdum4pofj2kshijkde0ih2mgbibo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
